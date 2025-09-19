@@ -4,7 +4,7 @@
 
 Project Name：[FytSoaCms](https://github.com/feiyit/FytSoaCms)
 
-There is an arbitrary file upload vulnerability
+Attackers are allowed to upload arbitrary files. They can upload cshtml files and execute arbitrary code.
 
 # <font style="color:rgb(0, 0, 0);">Vulnerability Analysis</font>
 
